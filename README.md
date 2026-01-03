@@ -1,16 +1,34 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**hj-dev-cmd/hj-dev-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Computer Software Engineering student.  
+Minor in AI Convergence, focusing on building strong fundamentals and practical skills.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- C (basic)
+- C++ (basic)
+- Python (basic)
+- Git / GitHub
+
+---
+
+## 📚 Currently Studying
+*(Preparing for next semester)*
+- Java
+- Operating Systems
+- Data Structures (review)
+- AI fundamentals
+
+---
+
+## 🎯 Goals
+- Build strong fundamentals in computer science
+- Get comfortable with Git and GitHub through daily use
+- Complete small personal projects to apply what I learn
+
+---
+
+## 🎮 Interests
+- Game modding (Stardew Valley)
+- Learning by building small things
